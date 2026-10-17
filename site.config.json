@@ -1,0 +1,17 @@
+{
+  "title": "Ruiqi · 学习手记",
+  "author": "Ruiqi",
+  "description": "把好奇写成理解。记录强化学习、具身智能、世界模型与机器人操作的学习笔记。",
+  "url": "https://owenma45.github.io",
+  "basePath": "/Learning-Blogs",
+  "github": "https://github.com/OwenMa45",
+  "repository": "https://github.com/OwenMa45/Learning-Blogs",
+  "homepage": "https://owenma45.github.io/",
+  "topics": [
+    {"id": "rl", "name": "强化学习", "en": "Reinforcement learning", "description": "从价值估计到策略优化，理解智能体如何从交互中学习。", "color": "green"},
+    {"id": "embodied", "name": "具身智能", "en": "Embodied intelligence", "description": "连接感知、语言与动作，阅读机器人学习的关键工作。", "color": "blue"},
+    {"id": "world-models", "name": "世界模型", "en": "World models", "description": "理解生成、预测与规划，探索模型如何描述环境。", "color": "purple"},
+    {"id": "robotics", "name": "机器人实践", "en": "Robotics in practice", "description": "记录控制、部署与实验复盘，让理论落到实际系统。", "color": "orange"},
+    {"id": "notes", "name": "学习与写作", "en": "Learning in public", "description": "整理阅读方法、写作流程，以及可以反复使用的知识。", "color": "neutral"}
+  ]
+}

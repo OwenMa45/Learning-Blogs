@@ -1,0 +1,13 @@
+{
+  "name": "ruiqi-learning-notes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ruiqi 的中文学习笔记博客",
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "new": "node scripts/new-post.mjs"
+  }
+}
